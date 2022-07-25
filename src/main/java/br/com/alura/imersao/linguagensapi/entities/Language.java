@@ -12,8 +12,6 @@ public class Language {
 	private String image;
 	private int		ranking;
 	
-	
-	
 	public Language() {
 	}
 
